@@ -44,13 +44,6 @@ AI-Powered Network Anomaly Detection
 
 ---
 
- GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github.com/Malathi-06"/>
- 
-
----
-
  Connect With Me
 <p>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
