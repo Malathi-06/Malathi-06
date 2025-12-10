@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Profile banner.png">
+  <img src="profile banner.jpg">
 </p>
 <h1 align="center">Hi, I'm Malathi</h1>
 <p align="center">AI & Full-Stack Developer | ML Enthusiast </p>
