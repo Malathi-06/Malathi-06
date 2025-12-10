@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Dynamic GitHub Profile Banner with Grid Motifs.png">
+  <img src="Profile banner.png">
 </p>
 <h1 align="center">👋 Hi, I'm Malathi</h1>
 <p align="center">AI & Full-Stack Developer | ML Enthusiast </p>
