@@ -12,7 +12,7 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"/> </p>
 <h3>Tools & Frameworks</h3>
 <p align="center"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60"/> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="60"/> </p>
-<h3>Professional Skils</h3>
+<h3>Professional Skills</h3>
 
 <table align="center">
 <tr>
